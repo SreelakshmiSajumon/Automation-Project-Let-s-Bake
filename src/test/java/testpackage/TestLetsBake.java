@@ -12,7 +12,7 @@ import pagepackage.ProductPage;
 import utilities.ExcelUtils;
 
 
-public class LoginTest extends BaseClass{
+public class TestLetsBake extends BaseClass{
 	@Test
 	public void verifyLoginWithValidCred () throws Exception
 
